@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "detector_spacing.py", line 34, in <module>
-    fbp = Aop.backward(Aop.filter_sinogram(sino))
-  File "/home/simon/miniconda3/envs/data_prox/lib/python3.8/site-packages/torch_radon-1.0.0-py3.8-linux-x86_64.egg/torch_radon/utils.py", line 30, in wrapped
-    y = f(self, x, *args, **kwargs)
-  File "/home/simon/miniconda3/envs/data_prox/lib/python3.8/site-packages/torch_radon-1.0.0-py3.8-linux-x86_64.egg/torch_radon/__init__.py", line 100, in filter_sinogram
-    filtered_sino_fft = sino_fft * f
-RuntimeError: The size of tensor a (71) must match the size of tensor b (2048) at non-singleton dimension 1

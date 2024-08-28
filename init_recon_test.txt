@@ -1,54 +1,0 @@
-FBP calculated.
-Precomputing shearlet system:   0%|          | 0/64 [00:00<?, ?it/s]Precomputing shearlet system:  14%|█▍        | 9/64 [00:00<00:00, 82.75it/s]Precomputing shearlet system:  28%|██▊       | 18/64 [00:00<00:00, 71.14it/s]Precomputing shearlet system:  41%|████      | 26/64 [00:00<00:00, 55.83it/s]Precomputing shearlet system:  50%|█████     | 32/64 [00:00<00:00, 54.16it/s]Precomputing shearlet system:  59%|█████▉    | 38/64 [00:00<00:00, 43.64it/s]Precomputing shearlet system:  67%|██████▋   | 43/64 [00:00<00:00, 36.59it/s]Precomputing shearlet system:  73%|███████▎  | 47/64 [00:01<00:00, 33.11it/s]Precomputing shearlet system:  80%|███████▉  | 51/64 [00:01<00:00, 31.63it/s]Precomputing shearlet system:  86%|████████▌ | 55/64 [00:01<00:00, 31.50it/s]Precomputing shearlet system:  92%|█████████▏| 59/64 [00:01<00:00, 31.35it/s]Precomputing shearlet system:  98%|█████████▊| 63/64 [00:01<00:00, 31.22it/s]Precomputing shearlet system: 100%|██████████| 64/64 [00:01<00:00, 38.44it/s]
-Synthesis Iteration: 1 / 500, Error: 0.43890678882598877, Norm: 249.1888427734375
-Synthesis Iteration: 10 / 500, Error: 0.2429181933403015, Norm: 254.45388793945312
-Synthesis Iteration: 20 / 500, Error: 0.21094581484794617, Norm: 261.0286560058594
-Synthesis Iteration: 30 / 500, Error: 0.19294190406799316, Norm: 263.3087463378906
-Synthesis Iteration: 40 / 500, Error: 0.1784001588821411, Norm: 264.71697998046875
-Synthesis Iteration: 50 / 500, Error: 0.16480056941509247, Norm: 265.5880126953125
-Synthesis Iteration: 60 / 500, Error: 0.1518930196762085, Norm: 266.529541015625
-Synthesis Iteration: 70 / 500, Error: 0.13980573415756226, Norm: 267.75164794921875
-Synthesis Iteration: 80 / 500, Error: 0.1287689208984375, Norm: 269.2403869628906
-Synthesis Iteration: 90 / 500, Error: 0.11897148936986923, Norm: 270.8501281738281
-Synthesis Iteration: 100 / 500, Error: 0.11049307882785797, Norm: 272.556884765625
-Synthesis Iteration: 110 / 500, Error: 0.10331995785236359, Norm: 274.2944641113281
-Synthesis Iteration: 120 / 500, Error: 0.09737670421600342, Norm: 275.97283935546875
-Synthesis Iteration: 130 / 500, Error: 0.0925382673740387, Norm: 277.54327392578125
-Synthesis Iteration: 140 / 500, Error: 0.08866611123085022, Norm: 278.97210693359375
-Synthesis Iteration: 150 / 500, Error: 0.0856243222951889, Norm: 280.2489013671875
-Synthesis Iteration: 160 / 500, Error: 0.08326804637908936, Norm: 281.3606872558594
-Synthesis Iteration: 170 / 500, Error: 0.08145321160554886, Norm: 282.30755615234375
-Synthesis Iteration: 180 / 500, Error: 0.08005405962467194, Norm: 283.103515625
-Synthesis Iteration: 190 / 500, Error: 0.07895419001579285, Norm: 283.7557373046875
-Synthesis Iteration: 200 / 500, Error: 0.07805611938238144, Norm: 284.2796630859375
-Synthesis Iteration: 210 / 500, Error: 0.07728176563978195, Norm: 284.69586181640625
-Synthesis Iteration: 220 / 500, Error: 0.07657691091299057, Norm: 285.025390625
-Synthesis Iteration: 230 / 500, Error: 0.07591068744659424, Norm: 285.2842712402344
-Synthesis Iteration: 240 / 500, Error: 0.07525976002216339, Norm: 285.4884033203125
-Synthesis Iteration: 250 / 500, Error: 0.0746178925037384, Norm: 285.6501770019531
-Synthesis Iteration: 260 / 500, Error: 0.07398448139429092, Norm: 285.78125
-Synthesis Iteration: 270 / 500, Error: 0.07335705310106277, Norm: 285.8884582519531
-Synthesis Iteration: 280 / 500, Error: 0.0727379098534584, Norm: 285.9773254394531
-Synthesis Iteration: 290 / 500, Error: 0.07213073968887329, Norm: 286.05340576171875
-Synthesis Iteration: 300 / 500, Error: 0.07153362035751343, Norm: 286.12322998046875
-Synthesis Iteration: 310 / 500, Error: 0.07094971835613251, Norm: 286.1886291503906
-Synthesis Iteration: 320 / 500, Error: 0.07038384675979614, Norm: 286.2520751953125
-Synthesis Iteration: 330 / 500, Error: 0.06983423233032227, Norm: 286.31427001953125
-Synthesis Iteration: 340 / 500, Error: 0.06930451840162277, Norm: 286.3768310546875
-Synthesis Iteration: 350 / 500, Error: 0.06879570335149765, Norm: 286.4422912597656
-Synthesis Iteration: 360 / 500, Error: 0.06830934435129166, Norm: 286.5092468261719
-Synthesis Iteration: 370 / 500, Error: 0.06784792989492416, Norm: 286.5780029296875
-Synthesis Iteration: 380 / 500, Error: 0.06741327792406082, Norm: 286.6494140625
-Synthesis Iteration: 390 / 500, Error: 0.06700441241264343, Norm: 286.7222900390625
-Synthesis Iteration: 400 / 500, Error: 0.06662212312221527, Norm: 286.7945556640625
-Synthesis Iteration: 410 / 500, Error: 0.0662667378783226, Norm: 286.865966796875
-Synthesis Iteration: 420 / 500, Error: 0.06593868881464005, Norm: 286.9378967285156
-Synthesis Iteration: 430 / 500, Error: 0.06563635170459747, Norm: 287.01153564453125
-Synthesis Iteration: 440 / 500, Error: 0.06536054611206055, Norm: 287.0871887207031
-Synthesis Iteration: 450 / 500, Error: 0.06511326134204865, Norm: 287.1641845703125
-Synthesis Iteration: 460 / 500, Error: 0.06489072740077972, Norm: 287.2441101074219
-Synthesis Iteration: 470 / 500, Error: 0.064694844186306, Norm: 287.3273010253906
-Synthesis Iteration: 480 / 500, Error: 0.06452398747205734, Norm: 287.4134521484375
-Synthesis Iteration: 490 / 500, Error: 0.0643782764673233, Norm: 287.5028381347656
-Synthesis Iteration: 500 / 500, Error: 0.06425926089286804, Norm: 287.5953063964844
-Finished.

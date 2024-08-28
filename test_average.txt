@@ -1,1 +1,0 @@
-slurmstepd-mp-gpu4-a6000-2: error: *** JOB 434 ON mp-gpu4-a6000-2 CANCELLED AT 2024-08-13T09:59:51 ***
